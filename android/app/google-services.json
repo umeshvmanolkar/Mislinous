@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177200614550",
+    "firebase_url": "https://mislinous.firebaseio.com",
+    "project_id": "mislinous",
+    "storage_bucket": "mislinous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177200614550:android:97e5661cba6a585bf4c6b7",
+        "android_client_info": {
+          "package_name": "com.umesh.mislinous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177200614550-lakdu5r4af0s8qr9k6ldh7dm1oubg363.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18eNxxSVDQf4GIzH43sAyCDub54u8utk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177200614550-lakdu5r4af0s8qr9k6ldh7dm1oubg363.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
